@@ -1,0 +1,17 @@
+Person A: I also found some contact information for iPLANiT.
+
+Person B: That would be great, what have you got?
+
+Person A: iPLANiT is located at The Glass House, Harbour Court, George’s Place, Dun Laoghaire, A96 P0A4, Co. Dublin, Ireland.
+
+Person B: That's quite specific. How can I reach them?
+
+Person A: You have a few options. Their Irish phone number is +353 1 9022488, and their mobile is +353 872317876. They also have a UK number, which is +44 2034685826.
+
+Person B: Do they have an email?
+
+Person A: Yes, they do. You can reach them via email at info@iplanit.ie, support@iplanit.ie, or developers@iplanit.ie.
+
+Person B: Any other way I can reach out to them?
+
+Person A: Yes, you can schedule a free review with Chad by visiting their website. Here's the link: https://www.iplanit.ie/contact-us/

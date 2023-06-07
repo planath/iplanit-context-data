@@ -1,0 +1,49 @@
+Person A: I found some more information about iPLANiT and their services. It seems they offer quite a wide range of solutions.
+
+Person B: Oh, really? Could you share what you've found?
+
+Person A: Sure. They offer Virtual Shows and Expos, Brand Creation, Domains & Hosting, Website Design & Development, Graphic Design, Video Production, Online Digital Strategy, Content Creation, Marketing Campaigns, UX/UI design, and Cloud-Based Applications.
+
+Person B: That's quite a list. Could you tell me a little bit more about these Virtual Shows and Expos?
+
+Person A: Yes, iPLANiT has developed an online platform for live online exhibitions or awards ceremonies. This could be used for various events and shows.
+
+Person B: How about their Brand Creation services?
+
+Person A: They can design unique and professional brands from scratch, or revamp existing brands to help them stand out and attract more attention.
+
+Person B: They mention Domains & Hosting. What does that involve?
+
+Person A: They offer services to register secure web domains and provide hosting for their clients' websites.
+
+Person A: They also mention Website Design & Development?
+
+Person B: Yes, they've been in the business of designing, building, and deploying websites since 2000. They handle all kinds of websites based on the client's needs.
+
+Person A: They provide Graphic Design as well?
+
+Person B: Indeed, they can take care of all sorts of digital or print designs including logos, websites, posters, infographics, flyers, and business cards.
+
+Person A: What about Video Production?
+
+Person B: They can produce professional videos to highlight the benefits of a client's product, service, or business.
+
+Person A: They also mention Online Digital Strategy?
+
+Person B: Yes, they help specify an organization’s vision, goals, and opportunities to maximize the business benefits of digital initiatives.
+
+Person A: They also talk about Content Creation and Marketing Campaigns?
+
+Person B: Absolutely. iPLANiT can create engaging content to enhance a website and online campaigns. They also offer a full online marketing campaign service where they can create and upload regular content in text or graphical format.
+
+Person A: And what does UX/UI design involve?
+
+Person B: UX/UI design with iPLANiT starts with identifying a strategy that helps create tailor-made designs as per business goals. It's about ensuring a good user experience and an intuitive interface.
+
+Person A: They mention Cloud Based Applications as well?
+
+Person B: Yes, they help businesses enhance their efficiency and reduce costs with the use of online Cloud-based applications.
+
+Person A: And what do they use to achieve all this?
+
+Person B: They have a toolbox of web tools, platforms, databases, frameworks, libraries, e-commerce platforms, content management systems, and project management systems. These tools include HTML5, CSS3, JavaScript, Google Cloud, Microsoft Azure, Amazon, MySQL, React, Bootstrap, Laravel, WordPress, Shopify, JIRA, and more. Of course, they also credit their creative and inspiring ideas, pencil and paper, and a whiteboard as essential tools in their process.
